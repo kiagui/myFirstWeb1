@@ -1,6 +1,3 @@
-body {
-  background-color: red !important;
-}
 .first {
   width: 300px;
   height: auto;
@@ -61,4 +58,15 @@ body {
   width: 20em;
   height: auto;
 }
+
+@media (max-width: 500px) {
+  .galleri {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 4px;
+  }
+
+  .galleri img {
+    width: 8rem;
+    height: auto;
+  }
 }
