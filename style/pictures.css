@@ -9,12 +9,13 @@
 
 .galleri {
   display: grid;
+  justify-items: center;
   grid-template-columns: repeat(3, 1fr);
   gap: 2px;
 }
 .galleri1 {
   width: 10rem;
-  height: 10rem;
+  height: auto;
 }
 .galleri2 {
   width: 10rem;
