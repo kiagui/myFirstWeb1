@@ -75,33 +75,6 @@ footer {
 }
 
 @media (max-width: 500px) {
-  body {
-    margin: 15px;
-  }
-
-  .Menu ul {
-    flex-direction: column;
-    align-items: center;
-    gap: 0.5rem;
-  }
-
-  .Menu a {
-    font-size: 1rem;
-    padding: 4px 8px;
-  }
-
-  .galleri {
-    grid-template-columns: 1fr;
-    justify-items: center;
-    gap: 1rem;
-  }
-
-  .galleri img {
-    width: 70%;
-    height: auto;
-  }
-}
-@media (max-width: 500px) {
   .Menu ul {
     flex-direction: row;
     flex-wrap: wrap;
