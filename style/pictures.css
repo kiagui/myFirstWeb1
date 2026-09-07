@@ -1,3 +1,6 @@
+body {
+  background-color: red !important;
+}
 .first {
   width: 300px;
   height: auto;
