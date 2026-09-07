@@ -1,0 +1,59 @@
+.first {
+  width: 300px;
+  height: auto;
+}
+.second {
+  width: 300px;
+  height: auto;
+}
+
+.galleri {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2px;
+}
+.galleri1 {
+  width: 10rem;
+  height: 10rem;
+}
+.galleri2 {
+  width: 10rem;
+  height: auto;
+}
+.galleri3 {
+  width: 10rem;
+  height: auto;
+}
+.galleri4 {
+  width: 10rem;
+  height: auto;
+}
+.galleri5 {
+  width: 10rem;
+  height: auto;
+}
+.galleri6 {
+  width: 10rem;
+  height: auto;
+}
+
+.komponenter1,
+.komponenter2,
+.komponenter3,
+.komponenter4,
+.komponenter5,
+.komponenter6 {
+  width: 10rem;
+  height: auto;
+}
+
+.operativsystemer1,
+.operativsystemer2,
+.operativsystemer3 {
+  width: 10rem;
+  height: auto;
+}
+.min-computer {
+  width: 20em;
+  height: auto;
+}

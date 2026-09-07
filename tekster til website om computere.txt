@@ -1,0 +1,67 @@
+>> TEKST TIL DIT SITE OM COMPUTERE <<
+
+!! Al tekst må kopieres direkte, hvis ikke andet er angivet.
+
+
+>> FORSIDEN (index.html)
+
+	Computere
+	Et site om computeren med alt fra dens historie til dens specifikationer og mine personlige præferencer, når det gælder computere og computerudstyr.
+	Stats
+	Ni ud af ti familier ejer i 2022 en eller flere smartphones, mens knap seks ud af ti familier har en tablet-pc liggende. Hele 94 procent ejer en personlig computer, hvoraf fire ud af ti anvender Windows som deres primære operativsystem.
+	Personlig computer
+	94%
+	Windows
+	40%
+	Tablet
+	56%
+	Smartphone
+	93%
+
+>> SIDE 2 (min_computer.html)
+
+	Min computer
+	Type
+	[Her skal du selv skrive en kort beskrivelse af din egen computer]
+	Specifikationer
+	[Her skal du selv kort beskrive og liste specifikationerne på din computer]
+
+
+>> SIDE 3 (operativsystemer.html)
+
+	Operativsystemer
+	Mac
+	Ikke alle tænker over, at 'Mac' er en forkortelse af 'Macintosh'. Operativsystemet har en historie, der begynder i 1984, hvor den personlige computer (PC) ikke var alles eje.
+	I dag er sagen en anden: De fleste mennesker kan i 2022 forventes at have mindst én computer. For nogle er det en mobiltelefon, for andre en laptop og for andre igen en stationær. Og langt de fleste danskere har også mere end én computer i deres hjem.
+	I skrivende stund bruger de nyste Mac computere styresystemet macOS, der er et UNIX operativsystem. Seneste version er macOS 12.5 fra d. 20. juli, 2022. Mest spændende er nok det skifte, Apple, der står bag Mac, i 2020 begyndte på, da de præsenterede Apple M1 processoren, hvor de før brugte Intel Core processorer. M1 chippen skulle være revolutionær.
+	Windows
+	Fra Microsoft har vi styresystemet Windows. Det er udbredt til en lang række mærker indenfor PC-markedet. Windows vs Mac kan godt opleves som lidt af en (smags-)religion, men det er først og fremmest to forskellige systemer, som hver især kræver tilpas meget at blive effektiv i at bruge. Windows 11 er nyeste skud på stammen.
+	En computer med Windows er ofte billigere end én med macOS, men du kan roligt regne med, at de fleste vil foretrække enten det ene eller andet og ikke altid overveje prisen på systemet, de bliver en del af.
+	Der er klart flere computere, der kører på Windows i forhold til macOS. Du kan se lidt forskellig statistik på styresystemer hos f.eks. W3Schools under deres Browser Stats > Browsers OS: https://www.w3schools.com/browsers/browsers_os.asp
+
+	Tablets og mobiler
+	Hvis du har en tablet eller en mobiltelefon, så har den også et styresystem. En smartphone i dag har typisk enten iOS (Apple) eller Android (mange forskellige mærker). For år tilbage kunne man også se mobiler med Windows Mobile. Men de er i dag en sjældenhed, selvom mange fandt tilgængeligheden for svagsynede bedst hos Windows.
+	Nogle tech-nørder afsværger Android og iOS og installerer i stedet f.eks. Linux på deres telefon. Det kan f.eks. være Ubuntu Touch. Apple har også lavet et tablet-dedikeret operativsystem, de kalder iPadOS.
+
+
+>> SIDE 4 (komponenter.html)
+
+	Komponenter
+	Vigtige komponenter
+	CPU'en er din computers 'Central Processing Unit'. Lidt ligesom din hjerne er hos dig. Bygger du en stationær computer, vil det første, du vælger, oftest være CPU. Det skyldes, at det er afgørende for bundkort og RAM hvilken CPU, du har. I 2021 var det meget svært at skaffe en god CPU, da producenterne slet ikke kunne klare efterspørgslen. Det skyldtes både corona-logistik og "bitcoin" mining, der fik markedet til at gå næsten i stå.
+	GPU kan du måske regne ud, hvad står for? Nemlig, 'Graphic Processing Unit'. Eller på dansk: Grafikkort. Hvis du skal spille computerspil eller redigere video, kan det være en rigtigt god idé at købe en computer med et selvstændigt grafikkort med egne dedikerede RAM. Det er store kræfter, der kræves, når grafik skal spille 100%.
+	RAM, som vi nævnte kort under GPU, er hukommelse for computeren. Altså, hvor mange mellemregninger, den kan have i hovedet på samme tid. Hvis det giver mening. RAM er en forkortelse for 'Random Access Memory'.
+	Køling
+	Luftkøling
+	Den mest almindelige måde at køle en computer på, er luftkøling. Der sidder ganske enkelt én eller flere ventilatorer i computeren, som leder den varme luft væk og køligere luft ind. De kan larme noget så frygteligt, men i dag kan man også købe luftkølere, der næsten intet siger og alligevel løser opgaven at køle CPU og resten af computeren.
+	Vandkøling
+	Skal din køling være fancy og futuristisk, er vandkøling måske et kig værd. Det handler helt kort om at bruge vand (i et lukket system) til at holde temperaturen i din computer på et fornuftigt niveau. Når det kan være fancy og futuristisk, så skyldes det selvfølgelig, at det kræver pumper, rør og andet udstyr at få væsken rundt.
+	Motherboard
+	Bundkortet er "pladen", du sætter din CPU, din GPU og dine RAM fast i. Det er på den måde ret afgørende, at dit motherboard dvs. dit bundkort passer til resten af din hardware. Ellers bliver det en "flaskehals".
+
+
+>> SIDE 5 (galleri.html)
+
+	Galleri
+	Udseende
+	Det er ret vildt, hvor forskellige, og nogle gange hvor ens, computere ser ud. Her kan du se nogle eksempler på, hvordan computere ser ud. Bemærk forskelle og ligheder på de forskellige billeder.

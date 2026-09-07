@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Spectral&display=swap");
+
+@media (max-width: 500px) {
+  body {
+    margin: 10px;
+  }
+
+  .galleri {
+    grid-template-columns: 1fr;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+h1,
+h2,
+h3,
+head {
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  color: #b8af00;
+}
+
+p,
+dd,
+dt,
+footer {
+  font-family: "Spectral", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.Tabel {
+  display: grid;
+  grid-template-columns: 2fr 1fr; /*gør det er lige store kolloner mellem hver punkt med plads til tekst*/
+  width: 400px;
+}
+
+.Tabel dt,
+.Tabel dd {
+  padding: 10px;
+  margin: 0;
+  border-bottom: 1px solid grey;
+}
+
+.Menu ul {
+  /*resteeter indstillingerne for menuens ul punkter, så de kan ændres til det man selv ønsker*/
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cta {
+  display: block;
+  width: fit-content;
+  margin: 2rem auto; /*2rem luft over/under og auto centrerer den vandret*/
+  background-color: burlywood;
+  color: darkred;
+  padding: 30px 60px;
+  font-size: 2.5rem;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.cta:hover {
+  background-color: darkgrey;
+  color: white;
+}
+
+@media (max-width: 500px) {
+  body {
+    margin: 10px;
+  }
+
+  .galleri {
+    grid-template-columns: 1fr;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  nav ul {
+    flex-direction: column;
+  }
+}
+
+.Menu ul {
+  display: flex; /*for at de vises ved siden af hinanden*/
+  gap: 1rem; /*mellemrummet mellem hvert element*/
+  margin-top: 2rem; /*toppens luft fra elementet*/
+  justify-content: center; /*gøre at teksten bliver placret i midten af skærmen*/
+}
+.Menu a {
+  color: #b84100;
+  text-decoration: none;
+  border: 1px solid darkgray;
+  border-radius: 4px;
+  padding: 1px;
+}
+.Menu a:hover {
+  background-color: lightgray;
+}
