@@ -61,9 +61,4 @@ body {
   width: 20em;
   height: auto;
 }
-
- @media (max-width: 800px) {
-  body {
-    background-color: red;
-  }
 }
