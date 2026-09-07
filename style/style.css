@@ -8,12 +8,18 @@
   }
 
   .galleri {
-    grid-template-columns: 1fr;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 1rem;
   }
 
   img {
     width: 100%;
     height: auto;
+  }
+
+  nav ul {
+    flex-direction: column;
   }
 }
 
@@ -70,25 +76,6 @@ footer {
 .cta:hover {
   background-color: darkgrey;
   color: white;
-}
-
-@media (max-width: 500px) {
-  body {
-    margin: 10px;
-  }
-
-  .galleri {
-    grid-template-columns: 1fr;
-  }
-
-  img {
-    width: 100%;
-    height: auto;
-  }
-
-  nav ul {
-    flex-direction: column;
-  }
 }
 
 .Menu ul {
